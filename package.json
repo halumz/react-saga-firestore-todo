@@ -1,0 +1,26 @@
+{
+  "name": "react-saga-firestore-todo",
+  "version": "0.1.0",
+  "author": "Mashuk Sadman",
+  "private": true,
+  "dependencies": {
+    "clone": "^2.1.1",
+    "firebase": "4.6.0",
+    "history": "^4.7.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.0.14",
+    "react-toggle-switch": "^3.0.3",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
